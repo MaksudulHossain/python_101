@@ -1,0 +1,7 @@
+numbers = list(range(1,1_000_000+1))
+min_num = min(numbers)
+max_num = max(numbers)
+sum_numbers = sum(numbers)
+print(f"min: {min_num}")
+print(f"max: {max_num}")
+print(f"min: {sum_numbers}")
